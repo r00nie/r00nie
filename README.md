@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="30"> from Poland.
+I am a Front End Developer <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="60"> from Poland.
 
 - :telescope: I’m currenlty working on my personal projects. 
 
