@@ -36,7 +36,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJ
 
 - :seedling: I'm currently learning Redux. Also improving my skills in React.js, TypeScript, Tailwind.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wackomagiciann-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacperbanasiak/) 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-r00nie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kacperbanasiak/) 
 
 ---
 
