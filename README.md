@@ -59,13 +59,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJ
 ![VsCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
----
-
-
-### :fire: My Stats :
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r00nie)](https://git.io/streak-stats)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r00nie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
